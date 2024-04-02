@@ -103,12 +103,7 @@ const Slider = () => {
                           <Image
                             alt="theme-pure"
                             loading="lazy"
-                            width="300"
-                            height="431"
-                            decoding="async"
-                            data-nimg="1"
-                            style={{ color: "transparent" }}
-                            src={gallery.img}
+                            {...gallery.img}
                           />
                         </div>
                         <div className="gallery-content">

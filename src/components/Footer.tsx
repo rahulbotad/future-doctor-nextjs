@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="container">
           <div className="row">
             <div
-              className="col-xl-4 col-md-6 pb-30  wow tpfadeUp"
+              className="col-xl-4 col-md-4 pb-30  wow tpfadeUp"
               data-wow-duration=".9s"
               data-wow-delay=".3s"
               style={{
@@ -80,7 +80,7 @@ const Footer = () => {
               </div>
             </div>
             <div
-              className="col-xl-4 col-lg-4 col-md-6 pb-30  wow tpfadeUp"
+              className="col-xl-4 col-lg-4 col-md-4 pb-30  wow tpfadeUp"
               data-wow-duration=".9s"
               data-wow-delay=".9s"
               style={{
@@ -114,7 +114,7 @@ const Footer = () => {
               </div>
             </div>
             <div
-              className="col-xl-4 col-lg-4 col-md-6 pb-30  wow tpfadeUp"
+              className="col-xl-4 col-lg-4 col-md-4 pb-30  wow tpfadeUp"
               data-wow-duration=".9s"
               data-wow-delay=".9s"
               style={{

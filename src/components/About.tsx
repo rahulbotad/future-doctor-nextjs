@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const About = () => {
   return (
-    <section className="pt-20 blue-light about-content">
+    <section className="pt-25 blue-light about-content">
       <div className="container">
         <div
           data-wow-duration=".9s"
@@ -18,7 +18,7 @@ const About = () => {
             className="text-center pb-20 wow tpfadeUp col-md-12"
             style={{ visibility: "visible" }}
           >
-            <h6>Medien, die über uns berichtet haben:</h6>
+            <h5>Medien, die über uns berichtet haben:</h5>
           </div>
           <div className="align-items-center d-flex col-6 col-lg-3">
             <Image

@@ -69,8 +69,7 @@ const Promo = () => {
                   <div className="promo-content">
                     <span>Neu</span>
                     <h1>
-                      Mit dem Bewerbungsportal am <br /> schnellsten zum
-                      Studienplatz
+                      Mit dem Bewerbungsportal am schnellsten zum Studienplatz
                     </h1>
                     <button type="button" className="btn btn-link">
                       Dein Weg zum Studium
@@ -98,8 +97,8 @@ const Promo = () => {
                   <div className="promo-content">
                     <span>Background</span>
                     <h1>
-                      Über 700 Personen konnten seit <br /> 2019 durch uns
-                      Medizin studieren.
+                      Über 700 Personen konnten seit 2019 durch uns Medizin
+                      studieren.
                     </h1>
                     <button type="button" className="btn btn-link">
                       Mehr über uns erfahren

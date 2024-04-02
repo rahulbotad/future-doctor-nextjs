@@ -386,6 +386,21 @@ input[type=color] {
   padding: 120px 0
 }
 
+.space.wow {
+  padding-top: 98px;
+  padding-bottom: 168px;
+}
+
+.space.gray-bg {
+  padding-top: 100px;
+  padding-bottom: 120px;
+}
+
+.space.white-bg {
+  padding-top: 108px;
+  padding-bottom: 136px;
+}
+
 @media(max-width: 767px) {
   .space {
       padding:60px 0
@@ -3243,31 +3258,16 @@ input[type=color] {
 }
 
 .tp-hero-five__ptb-5 {
-  padding-top: 130px;
-  /* padding-bottom: 100px; */
+  padding-top: 183px;
+  padding-bottom: 100px;
   background-color: var(--tp-common-white);
   border-radius: 50px;
-  height: 100vh;
-}
-
-@media only screen and (min-width: 992px)and (max-width:1199px) {
-  .tp-hero-five__ptb-5 {
-      padding-top:120px;
-      /* padding-bottom: 150px */
-  }
-}
-
-@media only screen and (min-width: 768px)and (max-width:991px) {
-  .tp-hero-five__ptb-5 {
-      padding-top:85px;
-      /* padding-bottom: 100px */
-  }
 }
 
 @media(max-width: 767px) {
   .tp-hero-five__ptb-5 {
       padding-top:100px;
-      /* padding-bottom: 100px; */
+      padding-bottom: 100px;
       border-radius: 25px
   }
 }
@@ -4705,7 +4705,14 @@ input[type=color] {
       height:350px
   }
 }
-
+.about-content h5{
+  font-family: Red Hat Display;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: justified;
+  color: #131D4D;
+}
 .about-img .about-content .h6,.about-img .about-content h6 {
   font-family: Red Hat Display;
   font-weight: 300;
@@ -5549,8 +5556,8 @@ input[type=color] {
   height: 338px;
   display: inline-block;
   position: absolute;
-  top: -40px;
-  right: 0
+  right: 0;
+  bottom: -3px;
 }
 
 @media(max-width: 767px) {
@@ -5603,8 +5610,7 @@ input[type=color] {
 .promo-img.first-child .promo-content .h1,.promo-img.first-child .promo-content h1 {
   font-family: Red Hat Display;
   color: var(--tp-common-white);
-  font-size: 2.725em;
-  line-height: 140%;
+  font-size: 3.125em;
   font-weight: 700
 }
 
@@ -5612,6 +5618,12 @@ input[type=color] {
   .promo-img.first-child .promo-content .h1,.promo-img.first-child .promo-content h1 {
     font-size: 2.425em;
   }  
+}
+
+.promo-img .promo-content {
+  position: relative;
+  z-index: 1;
+  width: 480px;
 }
 
 @media only screen and (min-width: 768px)and (max-width:991px) {
@@ -5623,9 +5635,10 @@ input[type=color] {
   }
 }
 
-.promo-img .promo-content {
-  position: relative;
-  z-index: 1;
+@media only screen and (min-width: 992px)and (max-width:1199px) {
+  .promo-img .promo-content {
+    width: 380px;
+  }
 }
 
 .promo-img .promo-content span {
@@ -5642,7 +5655,7 @@ input[type=color] {
 .promo-img .promo-content .h1,.promo-img .promo-content h1 {
   color: var(--tp-common-white);
   font-family: Red Hat Display;
-  font-size: 1.375em;
+  font-size: 2em;
   line-height: 150%;
   letter-spacing: .03rem;
   margin-bottom: 30px;
@@ -5661,7 +5674,7 @@ input[type=color] {
 
 .promo-img .promo-content .btn-link {
   color: var(--tp-common-white);
-  font-size: 1.375em;
+  font-size: 1.381em;
   font-weight: 500
 }
 

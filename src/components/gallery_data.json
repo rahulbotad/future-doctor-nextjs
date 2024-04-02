@@ -6,8 +6,8 @@
       "height": 431,
       "width": 300,
       "blurDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAMAAADtGH4KAAAAQlBMVEWEhHY9RS5PUAzv2cmnn5BcWzCxn4s/QBhlZSPn0cPWyryKjIjGyMKhpaHPzsd/g4KSl5eJi3vNw7a7ua6rrq2XmZibHNH9AAAACnRSTlP+8O3/+/D78Pb72nsrBgAAAAlwSFlzAAALEwAACxMBAJqcGAAAADVJREFUeJwVwQkSgCAQA8HxBJNdwOv/X7XsZvkdSLokereB8US7VyJaxE6OzNdw2lRKmbY6fzKwAc5iN0P1AAAAAElFTkSuQmCC",
-      "blurWidth": 6,
-      "blurHeight": 8
+      "blurwidth": 6,
+      "blurheight": 8
     },
     "name": "Ungarn",
     "title": "Budapest, Pecs"
@@ -19,8 +19,8 @@
       "height": 431,
       "width": 300,
       "blurDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAMAAADtGH4KAAAAVFBMVEVtXVSXlqFDQz3Fy6x0ZFyVi3TN1Ojt8fjL0+FlawmemS27u8PY3+yRgGGjqbLg5O10biZqbEh+fIuTkgqMi5yEej1pZFqDhgPd4ube5vKdqG7AydY3o2A9AAAADHRSTlPv/f398P39/v3+/f0ITqfpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAOUlEQVR4nAXBBwKAIAwAsVPAgrZMt///pwnuLUUXRB7ViNw5f5Et975PhNbsnFnHuFIiWK2HgffAD0XRAkbVJy0wAAAAAElFTkSuQmCC",
-      "blurWidth": 6,
-      "blurHeight": 8
+      "blurwidth": 6,
+      "blurheight": 8
     },
     "name": "Slowakei",
     "title": "Bratislava, Martin, Kosice",
@@ -33,8 +33,8 @@
       "height": 431,
       "width": 300,
       "blurDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAMAAADtGH4KAAAAUVBMVEVRWlsAgKHGraaisbNWYWO/opzMhXeIa2RMSkrTpJqwvr+csLP14dmTiIKXrK5XZmiAj5HK0tF0fH3RubKde3J8hIWrtbanmpKsb16Ptr+lmpHCH/rSAAAADnRSTlPw/Pz/8Pz89u/+/////m4iB0gAAAAJcEhZcwAACxMAAAsTAQCanBgAAAA5SURBVHicBcEHAoAgDACx06pAW6bb/z/UhOnt3R7yl/Od2FTlcmY1UyeJlOKs0prthLPWcRBZiOEHQu0CMGOoDGEAAAAASUVORK5CYII=",
-      "blurWidth": 6,
-      "blurHeight": 8
+      "blurwidth": 6,
+      "blurheight": 8
     },
     "name": "Tschechien",
     "title": "Prag, Pilsen, Olmütz"
@@ -42,12 +42,12 @@
   {
     "id": 4,
     "img": {
-      "src": "/img/media/slide-3.png",
+      "src": "/img/media/slide-4.png",
       "height": 431,
       "width": 300,
       "blurDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAMAAADtGH4KAAAAUVBMVEVRWlsAgKHGraaisbNWYWO/opzMhXeIa2RMSkrTpJqwvr+csLP14dmTiIKXrK5XZmiAj5HK0tF0fH3RubKde3J8hIWrtbanmpKsb16Ptr+lmpHCH/rSAAAADnRSTlPw/Pz/8Pz89u/+/////m4iB0gAAAAJcEhZcwAACxMAAAsTAQCanBgAAAA5SURBVHicBcEHAoAgDACx06pAW6bb/z/UhOnt3R7yl/Od2FTlcmY1UyeJlOKs0prthLPWcRBZiOEHQu0CMGOoDGEAAAAASUVORK5CYII=",
-      "blurWidth": 6,
-      "blurHeight": 8
+      "blurwidth": 6,
+      "blurheight": 8
     },
     "name": "Lettland",
     "title": "Riga"
@@ -55,12 +55,12 @@
   {
     "id": 5,
     "img": {
-      "src": "/img/media/slide-1.png",
+      "src": "/img/media/slide-5.png",
       "height": 431,
       "width": 300,
       "blurDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAMAAADtGH4KAAAAQlBMVEWEhHY9RS5PUAzv2cmnn5BcWzCxn4s/QBhlZSPn0cPWyryKjIjGyMKhpaHPzsd/g4KSl5eJi3vNw7a7ua6rrq2XmZibHNH9AAAACnRSTlP+8O3/+/D78Pb72nsrBgAAAAlwSFlzAAALEwAACxMBAJqcGAAAADVJREFUeJwVwQkSgCAQA8HxBJNdwOv/X7XsZvkdSLokereB8US7VyJaxE6OzNdw2lRKmbY6fzKwAc5iN0P1AAAAAElFTkSuQmCC",
-      "blurWidth": 6,
-      "blurHeight": 8
+      "blurwidth": 6,
+      "blurheight": 8
     },
     "name": "Ungarn",
     "title": "Budapest, Pecs"
@@ -68,12 +68,12 @@
   {
     "id": 6,
     "img": {
-      "src": "/img/media/slide-2.png",
+      "src": "/img/media/slide-6.png",
       "height": 431,
       "width": 300,
       "blurDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAMAAADtGH4KAAAAVFBMVEVtXVSXlqFDQz3Fy6x0ZFyVi3TN1Ojt8fjL0+FlawmemS27u8PY3+yRgGGjqbLg5O10biZqbEh+fIuTkgqMi5yEej1pZFqDhgPd4ube5vKdqG7AydY3o2A9AAAADHRSTlPv/f398P39/v3+/f0ITqfpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAOUlEQVR4nAXBBwKAIAwAsVPAgrZMt///pwnuLUUXRB7ViNw5f5Et975PhNbsnFnHuFIiWK2HgffAD0XRAkbVJy0wAAAAAElFTkSuQmCC",
-      "blurWidth": 6,
-      "blurHeight": 8
+      "blurwidth": 6,
+      "blurheight": 8
     },
     "name": "Slowakei",
     "title": "Bratislava, Martin, Kosice",
@@ -82,12 +82,12 @@
   {
     "id": 7,
     "img": {
-      "src": "/img/media/slide-3.png",
+      "src": "/img/media/slide-7.png",
       "height": 431,
       "width": 300,
       "blurDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAMAAADtGH4KAAAAUVBMVEVRWlsAgKHGraaisbNWYWO/opzMhXeIa2RMSkrTpJqwvr+csLP14dmTiIKXrK5XZmiAj5HK0tF0fH3RubKde3J8hIWrtbanmpKsb16Ptr+lmpHCH/rSAAAADnRSTlPw/Pz/8Pz89u/+/////m4iB0gAAAAJcEhZcwAACxMAAAsTAQCanBgAAAA5SURBVHicBcEHAoAgDACx06pAW6bb/z/UhOnt3R7yl/Od2FTlcmY1UyeJlOKs0prthLPWcRBZiOEHQu0CMGOoDGEAAAAASUVORK5CYII=",
-      "blurWidth": 6,
-      "blurHeight": 8
+      "blurwidth": 6,
+      "blurheight": 8
     },
     "name": "Tschechien",
     "title": "Prag, Pilsen, Olmütz"
@@ -95,12 +95,12 @@
   {
     "id": 8,
     "img": {
-      "src": "/img/media/slide-3.png",
+      "src": "/img/media/slide-8.png",
       "height": 431,
       "width": 300,
       "blurDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAMAAADtGH4KAAAAUVBMVEVRWlsAgKHGraaisbNWYWO/opzMhXeIa2RMSkrTpJqwvr+csLP14dmTiIKXrK5XZmiAj5HK0tF0fH3RubKde3J8hIWrtbanmpKsb16Ptr+lmpHCH/rSAAAADnRSTlPw/Pz/8Pz89u/+/////m4iB0gAAAAJcEhZcwAACxMAAAsTAQCanBgAAAA5SURBVHicBcEHAoAgDACx06pAW6bb/z/UhOnt3R7yl/Od2FTlcmY1UyeJlOKs0prthLPWcRBZiOEHQu0CMGOoDGEAAAAASUVORK5CYII=",
-      "blurWidth": 6,
-      "blurHeight": 8
+      "blurwidth": 6,
+      "blurheight": 8
     },
     "name": "Lettland",
     "title": "Riga"
