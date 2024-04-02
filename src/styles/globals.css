@@ -524,7 +524,10 @@ input[type=color] {
   padding: 0;
   font-family: montserratmedium;
   height: auto;
-  line-height: normal
+  line-height: inherit;
+  white-space: break-spaces;
+  text-align: start;
+  border-radius: 0;
 }
 
 .btn.btn-link i {
@@ -3579,6 +3582,11 @@ input[type=color] {
       margin-top:30px
   }
 }
+@media(max-width: 767px) and (max-height: 625px) {
+  .tp-hero-five-2-thumb-inner {
+    width: 20vw !important;
+  }
+}
 
 .tp-hero-five-section-wrap {
   margin-left: -60px
@@ -5548,15 +5556,16 @@ input[type=color] {
 @media(max-width: 767px) {
   .promo-img.after-image:after {
       top:unset;
-      bottom: 15px
+      bottom: 0px;
   }
 }
 
 .promo-img.after-image-3:after {
   content: "";
   background-image: url(/img/promo3.1.svg);
-  width: 265px;
-  height: 230px;
+  background-size: contain;
+  width: 220px;
+  height: 190px;
   display: inline-block;
   position: absolute;
   bottom: 0;
@@ -5569,7 +5578,6 @@ input[type=color] {
 @media(max-width: 767px) {
   .promo-img.after-image-3:after {
       top:unset;
-      bottom: 15px
   }
 }
 
@@ -5589,21 +5597,35 @@ input[type=color] {
 @media(max-width: 767px) {
   .promo-img.first-child:after {
       top:unset;
-      bottom: 15px
   }
 }
 
 .promo-img.first-child .promo-content .h1,.promo-img.first-child .promo-content h1 {
   font-family: Red Hat Display;
   color: var(--tp-common-white);
-  font-size: 3.125rem;
+  font-size: 2.725em;
   line-height: 140%;
   font-weight: 700
 }
 
+@media(max-width: 767px) {
+  .promo-img.first-child .promo-content .h1,.promo-img.first-child .promo-content h1 {
+    font-size: 2.425em;
+  }  
+}
+
+@media only screen and (min-width: 768px)and (max-width:991px) {
+  .promo-img.first-child .promo-content .h1,.promo-img.first-child .promo-content h1 {
+    font-size: 2.625em;
+  }
+  .promo-img .promo-content {
+    width: 230px;
+  }
+}
+
 .promo-img .promo-content {
   position: relative;
-  z-index: 1
+  z-index: 1;
 }
 
 .promo-img .promo-content span {
@@ -5620,7 +5642,7 @@ input[type=color] {
 .promo-img .promo-content .h1,.promo-img .promo-content h1 {
   color: var(--tp-common-white);
   font-family: Red Hat Display;
-  font-size: 22px;
+  font-size: 1.375em;
   line-height: 150%;
   letter-spacing: .03rem;
   margin-bottom: 30px;
@@ -5639,13 +5661,13 @@ input[type=color] {
 
 .promo-img .promo-content .btn-link {
   color: var(--tp-common-white);
-  font-size: 1.375rem;
+  font-size: 1.375em;
   font-weight: 500
 }
 
 @media(max-width: 767px) {
   .promo-img .promo-content .btn-link {
-      font-size:0.875rem;
+      font-size:0.875em;
   }
 }
 
